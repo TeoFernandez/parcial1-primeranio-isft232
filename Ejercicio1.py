@@ -1,4 +1,3 @@
-#A este punto lo hiciste bien.
 texto="Hoy es día de evalución de introducción a la programación"
 
 if len(texto)>10:
